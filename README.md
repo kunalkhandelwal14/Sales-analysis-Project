@@ -61,15 +61,6 @@ Interactive slicers for dynamic exploration
 
 The dashboard is designed for non-technical stakeholders to quickly understand sales performance.
 
-🧠 Key Insights
-
-Laptops contribute the highest share of total revenue.
-
-West region generates the most revenue and also has the highest AOV.
-
-Revenue peaks in Q3, indicating seasonal demand.
-
-Furniture Sales decline in Q2 ,impacting the overall revenue.
 
 🧾 SQL Highlights
 
@@ -82,6 +73,17 @@ Use of GROUP BY for business-level summaries
 Subqueries and CTEs for cleaner and readable queries
 
 Queries aligned with real-world business questions
+
+
+🧠 Key Insights
+
+Laptops contribute the highest share of total revenue.
+
+West region generates the most revenue and also has the highest AOV.
+
+Revenue peaks in Q3, indicating seasonal demand.
+
+Furniture Sales decline in Q2 ,impacting the overall revenue.
 
 
 👤 Author
